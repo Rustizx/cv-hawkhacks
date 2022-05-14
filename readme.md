@@ -1,7 +1,7 @@
 ```bash
 #windows
-source venv/Scripts/activate
+source .venv/Scripts/activate
 
 #mac
-source venv/bin/activate
+source .venv/bin/activate
 ```
